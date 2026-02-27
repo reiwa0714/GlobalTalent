@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="globaltalent.client/globaltalent.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="GlobalTalent.Server/GlobalTalent.Server.csproj" />
+</Solution>

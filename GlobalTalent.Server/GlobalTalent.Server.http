@@ -1,0 +1,6 @@
+@GlobalTalent.Server_HostAddress = http://localhost:5279
+
+GET {{GlobalTalent.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
